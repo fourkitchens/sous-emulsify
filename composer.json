@@ -18,6 +18,6 @@
     "require": {
         "drupal/components": "^3.0@beta",
         "drupal/emulsify": "^5.0",
-        "emulsify-ds/emulsify_tools": "^1.0"
+        "drupal/emulsify_tools": "^1.0"
     }
 }
