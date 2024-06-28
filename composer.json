@@ -8,12 +8,16 @@
         {
             "name": "Laura Johnson",
             "role": "Maintainer"
+        },
+        {
+            "name": "Callin Mullaney",
+            "role": "Maintainer"
         }
     ],
     "minimum-stability": "dev",
     "require": {
         "drupal/components": "^3.0@beta",
-        "emulsify-ds/emulsify-drupal": "dev-main",
-        "emulsify-ds/emulsify_tools": "dev-main"
+        "drupal/emulsify": "^5.0",
+        "emulsify-ds/emulsify_tools": "^1.0"
     }
 }
