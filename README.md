@@ -12,7 +12,7 @@ See https://www.drupal.org/files/issues/2023-10-01/Configuring%20Drupal%20to%20A
 ## Applying this Recipe
 
 If you used the Sous Project as your starterkit:
-- `lando install-recipe sous-emulsify` 
+- `lando install-recipe fourkitchens/sous-emulsify` 
 
 Manually applying the recipe to your own project:
 From your webroot run: 
