@@ -16,8 +16,8 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "drupal/components": "^3.0@beta",
-        "drupal/emulsify": "^5.0",
+        "drupal/components": "^3.1",
+        "drupal/emulsify": "^5.4",
         "drupal/emulsify_tools": "^1.0"
     }
 }
