@@ -14,9 +14,9 @@
             "role": "Maintainer"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
-        "drupal/emulsify": "^7.1",
-        "drupal/emulsify_tools": "^2.1.0"
+        "drupal/emulsify": "^7.2.1",
+        "drupal/emulsify_tools": "^2.2.2"
     }
 }
